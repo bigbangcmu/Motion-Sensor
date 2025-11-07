@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/IR%20Motion/%5B%20Input%20%5D%20-%20IR%20Motion%20Sensor.jpg?raw=true)
+
 # Motion-Sensor
 **The IR Motion Sensor** detects movement by sensing changes in infrared radiation (heat) within its surroundings. It uses Passive Infrared (PIR) technology to identify motion from people, animals, or other heat-emitting objects. When a warm body enters its detection range, the sensor sends a signal that can be used to trigger devices such as alarms, lights, or automatic doors.
 
